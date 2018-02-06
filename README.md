@@ -16,7 +16,7 @@
 
 ## Quick start:
 
-1. `$ django-admin.py startproject --template=https://github.com/arocks/edge/archive/master.zip --extension=py,md,html,env my_proj`
+1. `$ django-admin.py startproject --template=https://github.com/foobarkar/edge/archive/master.zip --extension=py,md,html,env my_proj`
 2. `$ cd my_proj`
 3. `$ pip install -r requirements.txt `
 4. `$ cd src`
